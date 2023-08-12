@@ -1,4 +1,4 @@
-# Kakao JavaScript SDK Integration
+# Kakao JavaScript SDK Integration Example
 
 This repository provides an example of integrating the Kakao JavaScript SDK into a web application for user authentication and user information retrieval.
 
